@@ -303,6 +303,12 @@ button#singup {
     color: rgba(16, 24, 40, 1);
     max-width: 1088px;
     max-height: 88px;
+    padding-bottom: 30px;
+}
+
+.depoimentos img {
+    image-resolution: 56px;
+    padding: 10px;
 }
 
 .depoimentos h3 {
